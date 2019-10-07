@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+nav li {
+  padding: 0.5rem 1rem;
+}
+
+.head_content {
+  display: -ms-grid;
+  display: grid;
+  grid: auto/ 1fr 1fr;
+}
+
+.head_content .main_head {
+  margin: 0.5rem 4.5rem;
+}
+
+.head_content .main_head h1 {
+  text-align: left !important;
+  font-weight: bold;
+}
+
+.head_content .main_head p {
+  font-size: 1.5rem;
+  text-align: justify;
+}
+
+.head_content .contact_form {
+  margin: 0 -4rem 0 3rem;
+}
+/*# sourceMappingURL=App.css.map */
