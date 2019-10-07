@@ -35,3 +35,21 @@ nav li {
   margin: 0 -4rem 0 3rem;
 }
 /*# sourceMappingURL=App.css.map */
+
+.service_card .card img {
+  height: auto;
+  width: 50%;
+  align-self: center;
+  padding-top: 10%;
+}
+
+.service_card .card-title.h5 {
+  height: auto;
+  text-align: center;
+}
+
+.servicesection h1.head_1 {
+  padding-top: 3%;
+  font-weight: 800;
+  font-size: 40px;
+}
